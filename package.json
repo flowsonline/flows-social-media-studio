@@ -10,9 +10,9 @@
     "postinstall": "prisma generate || echo 'skipping prisma'"
   },
   "dependencies": {
-    "@wix/sdk": "1.7.2",
-    "@wix/members": "1.0.347",
-    "@wix/pricing-plans": "1.0.373",
+    "@wix/sdk": "latest",
+    "@wix/members": "latest",
+    "@wix/pricing-plans": "latest",
     "autoprefixer": "10.4.20",
     "clsx": "2.1.1",
     "date-fns": "3.6.0",
